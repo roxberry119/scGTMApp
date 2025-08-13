@@ -1,0 +1,12 @@
+name: scGTMApp
+title: scGTMApp
+username: elviscuihan
+account: elviscuihan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15192272
+bundleId: 10761012
+url: https://elviscuihan.shinyapps.io/scGTMApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
