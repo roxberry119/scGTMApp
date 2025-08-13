@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "shiny",
+    "entrypoint": "app"
+  },
+  "files": {
+    "app.R": {
+      "checksum": ""
+    }
+  },
+  "packages": {
+    "R": [
+      {
+        "package": "shiny",
+        "version": "1.7.0",
+        "source": "CRAN"
+      },
+      {
+        "package": "shinydashboard",
+        "version": "0.7.2",
+        "source": "CRAN"
+      },
+      {
+        "package": "DT",
+        "version": "0.24",
+        "source": "CRAN"
+      },
+      {
+        "package": "ggplot2",
+        "version": "3.4.0",
+        "source": "CRAN"
+      },
+      {
+        "package": "dplyr",
+        "version": "1.1.0",
+        "source": "CRAN"
+      },
+      {
+        "package": "readr",
+        "version": "2.1.0",
+        "source": "CRAN"
+      },
+      {
+        "package": "numDeriv",
+        "version": "2016.8-1.1",
+        "source": "CRAN"
+      }
+    ]
+  }
+}
